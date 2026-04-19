@@ -14,6 +14,8 @@ book:
     - 3-NetLogo.qmd
     - 4-infoplokid.qmd
     - 5-Mis-on-infouhiskond.qmd
+    - Uus_peatükk.qmd
+
 
 
 bibliography: references.bib
